@@ -1,0 +1,23 @@
+{
+    "compilerOptions": {
+        "target": "es6",
+        "module": "commonjs",
+        "rootDir": "./",
+        "outDir": "./build",
+        "esModuleInterop": true,
+        "strict": false,
+        "experimentalDecorators": true,
+        "lib": [
+            "dom",
+            "dom.iterable",
+            "esnext"
+        ],
+        "allowJs": true,
+        "moduleResolution": "node",
+        "removeComments": true,
+        "strictPropertyInitialization": false,
+        "resolveJsonModule": true,
+        "emitDecoratorMetadata": true,
+       
+    }
+}
